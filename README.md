@@ -77,29 +77,20 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 Build each rectifier in Proteus, with and without the capacitor filter. Use the virtual oscilloscope to display the input (secondary) and output waveforms together, and paste the screenshots below.
 
-### Half wave rectifier without filter – waveform
+### Half wave rectifier
 
-*[ Paste the Proteus half wave rectifier without filter waveform screenshot here ]*
+<img width="1082" height="695" alt="WhatsApp Image 2026-11-23 at 11 42 44 PM" src="https://github.com/user-attachments/assets/3a3117bd-5745-4b0f-82ad-f5dd3e91903c" />
+<img width="1367" height="852" alt="WhatsApp Image 2026-11-23 at 11 42 40 PM" src="https://github.com/user-attachments/assets/f7cd23fe-8cd5-4623-9679-595038fb81fc" />
 
-**Figure 5:** Proteus waveform – half wave rectifier without filter
 
-### Half wave rectifier with filter – waveform
+### Full wave bridge rectifier 
 
-*[ Paste the Proteus half wave rectifier with filter waveform screenshot here ]*
+<img width="1106" height="705" alt="WhatsApp Image 2026-11-23 at 11 42 51 PM" src="https://github.com/user-attachments/assets/45ee33a2-bf0f-41a8-ae40-c9e9628f3594" />
+<img width="1377" height="882" alt="WhatsApp Image 2026-11-23 at 11 42 47 PM" src="https://github.com/user-attachments/assets/6b0e0a51-2208-4f2a-8123-902cd2ae2498" />
 
-**Figure 6:** Proteus waveform – half wave rectifier with filter
-
-### Full wave bridge rectifier without filter – waveform
-
-*[ Paste the Proteus full wave bridge rectifier without filter waveform screenshot here ]*
-
-**Figure 7:** Proteus waveform – full wave bridge rectifier without filter
-
-### Full wave bridge rectifier with filter – waveform
-
-*[ Paste the Proteus full wave bridge rectifier with filter waveform screenshot here ]*
-
-**Figure 8:** Proteus waveform – full wave bridge rectifier with filter
+## TABULATION AND MODEL GRAPH
+<img width="1198" height="1600" alt="image" src="https://github.com/user-attachments/assets/37a94928-e823-47a1-a4c9-640803a7b4be" />
+<img width="1229" height="1599" alt="image" src="https://github.com/user-attachments/assets/7391c73c-0e88-4e89-b3a6-ebb39f59bb7d" />
 
 ## FORMULAE
 
