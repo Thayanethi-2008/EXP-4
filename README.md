@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:THAYANETHI  | | **Reg. No.:26018113 | |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:24-11-2026 | | **Batch / Section:19EE305 | |
 
 ---
 
