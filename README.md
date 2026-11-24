@@ -53,12 +53,14 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Half wave rectifier without filter
 
-<img width="952" height="1600" alt="WhatsApp Image 2026-11-24 at 7 37 02 PM" src="https://github.com/user-attachments/assets/0c144164-900a-4adf-bccb-ba6e17736303" />
+<img width="1600" height="952" alt="WhatsApp Image 2026-11-24 at 7 40 19 PM" src="https://github.com/user-attachments/assets/2cf780ef-ea62-40f4-9e79-be21760be79f" />
+
 
 
 ### Half wave rectifier with filter
 
-<img width="919" height="1600" alt="WhatsApp Image 2026-11-24 at 7 37 05 PM" src="https://github.com/user-attachments/assets/09bb3d6a-ebb8-49d0-b141-28399ba54d9e" />
+<img width="1600" height="919" alt="WhatsApp Image 2026-11-24 at 7 40 28 PM" src="https://github.com/user-attachments/assets/0e9bf792-957f-4592-b53c-cb179625c4d4" />
+
 
 
 ### Full wave bridge rectifier without filter
