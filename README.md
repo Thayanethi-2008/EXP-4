@@ -53,15 +53,13 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Half wave rectifier without filter
 
-*[ Insert the half wave rectifier without filter circuit diagram here ]*
+<img width="952" height="1600" alt="WhatsApp Image 2026-11-24 at 7 37 02 PM" src="https://github.com/user-attachments/assets/0c144164-900a-4adf-bccb-ba6e17736303" />
 
-**Figure 1:** Half wave rectifier without filter
 
 ### Half wave rectifier with filter
 
-*[ Insert the half wave rectifier with filter circuit diagram here ]*
+<img width="919" height="1600" alt="WhatsApp Image 2026-11-24 at 7 37 05 PM" src="https://github.com/user-attachments/assets/09bb3d6a-ebb8-49d0-b141-28399ba54d9e" />
 
-**Figure 2:** Half wave rectifier with filter
 
 ### Full wave bridge rectifier without filter
 
