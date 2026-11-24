@@ -65,15 +65,13 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Full wave bridge rectifier without filter
 
-*[ Insert the full wave bridge rectifier without filter circuit diagram here ]*
+<img width="1600" height="815" alt="WhatsApp Image 2026-11-24 at 7 43 45 PM" src="https://github.com/user-attachments/assets/a0793ff9-c52f-4dc0-8d9c-b6dfefabfb2e" />
 
-**Figure 3:** Full wave bridge rectifier without filter
 
 ### Full wave bridge rectifier with filter
 
-*[ Insert the full wave bridge rectifier with filter circuit diagram here ]*
+<img width="1599" height="1092" alt="WhatsApp Image 2026-11-24 at 7 43 52 PM" src="https://github.com/user-attachments/assets/01df93a0-39e0-454d-8734-b010d9fb230b" />
 
-**Figure 4:** Full wave bridge rectifier with filter
 
 ## SIMULATION AND WAVEFORMS USING PROTEUS
 
